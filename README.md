@@ -1,10 +1,13 @@
 # Where-Are-My-Kittens-Speedrun-mod
 
-This is a mod for speedruners it will receive more updates, but for now its just the reset feature.
+This is a mod for speedruners it will receive more updates, but for now its just the some features.
 
 # Features
 
 Click "R" to reset the save
+Click "O" to make the camera slower
+Click "P" to make the camera faster
+Click "F10" to reset the camera to its normal velocity
 
 # Installation
 
