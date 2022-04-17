@@ -1,4 +1,4 @@
-# Where-Are-My-Kittens-Speedrun-mod
+# Where-Are-My-Mittens-Speedrun-mod
 
 This is a mod for speedruners it will receive more updates, but for now its just the some features.
 
