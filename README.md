@@ -2,7 +2,19 @@
 
 This is a mod for speedruners it will receive more updates, but for now its just the some features.
 
+# What is the difference between the versions?
+
+Speedrun version, is the version that is allowed on the leaderboards(the only one)
+
+Mess around Version, is to mess around(im gonna add more stuff)
+
 # Features
+
+Speedrun version:
+
+Click "R" to reset the save
+
+Mess around Version:
 
 Click "R" to reset the save
 Click "O" to make the camera slower
