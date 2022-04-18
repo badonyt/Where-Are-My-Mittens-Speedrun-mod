@@ -20,6 +20,7 @@ Click "R" to reset the save
 Click "O" to make the camera slower
 Click "P" to make the camera faster
 Click "F10" to reset the camera to its normal velocity
+Click "T" to flip your character to your other way
 
 # Installation
 
