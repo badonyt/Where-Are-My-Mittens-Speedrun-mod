@@ -17,10 +17,16 @@ Click "R" to reset the save
 Mess around Version:
 
 Click "R" to reset the save
+
 Click "O" to make the camera slower
+
 Click "P" to make the camera faster
+
 Click "F10" to reset the camera to its normal velocity
+
 Click "T" to flip your character to your other way
+
+Click "M" to go to the second checkpoint when the dash mechanic is intruduced
 
 # Installation
 
