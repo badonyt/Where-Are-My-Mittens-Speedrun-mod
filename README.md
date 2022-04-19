@@ -10,11 +10,11 @@ Mess around Version, is to mess around(im gonna add more stuff)
 
 # Features
 
-Speedrun version:
+**Speedrun version:**
 
 Click "R" to reset the save
 
-Mess around Version:
+**Mess around Version:**
 
 Click "R" to reset the save
 
